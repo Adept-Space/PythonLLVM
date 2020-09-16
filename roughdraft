@@ -1,0 +1,8 @@
+#inferred lack of support for classes
+#dictionary and other standard data structures might be missing.
+#investigate Scala and Crystal for code adaptable to extend this functionality
+#the static typing with type inference seems a solid model for LLVM-IR's
+#More c++ and c native functions should be supported (wrapped?)
+#Focusing on networking, databases, and other full featured applications could help
+#targeting other common python libraries might be helpful, as well
+
